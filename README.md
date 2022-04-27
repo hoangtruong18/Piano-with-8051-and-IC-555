@@ -42,6 +42,6 @@ I use tristate gate to not turn on two music notes in the same time.
 
 First I enable the tristate gate, then turn on the buzzer for 1 second. After that I turn off the buzzer and wait for 1 second to disable the tristate gate and wait for another music note.
 
-• Final I will demo the project with Cannon in C songs through GoogleDrive link:
+• Finally I will demo the project with Cannon in C songs through GoogleDrive link:
 
 https://drive.google.com/file/d/1sgVnA7uTdVQ8pQVtDn6njXhJWmUeFd5d/view?usp=sharing
