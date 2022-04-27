@@ -7,6 +7,7 @@ Small project with assembly and music skill
 ![image](https://user-images.githubusercontent.com/104365389/165517091-e6d82bc6-c4d4-473b-b8cb-c6b6077793b9.png)
 
 IC 555 calculate the output voltage frequency
+
 ![image](https://user-images.githubusercontent.com/104365389/165499814-e5025105-e0da-4c92-a9a5-f60d3089d9cc.png)
 
 The 555 timer shown above is configured as an astable circuit. This means that the output voltage is a periodic pulse that alternates between the VCC value and 0 volts.
